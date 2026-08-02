@@ -1,8 +1,3 @@
-# AquaCheck-Edge
-Here is your completed project submission document, pre-filled with all the technical details, architecture specs, and metrics from your local PaliGemma setup:
-
----
-
 # AquaCheck Edge AI
 
 **Track:** Intelligence with Purpose
